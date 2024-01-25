@@ -317,5 +317,40 @@
         }
       ]
     }
+  ],
+  "activities": [
+    {
+      "id": "4ed2dad4-6246-4f7e-bda9-e89a96465195",
+      "timestamp": "2024-01-09T13:00:00Z",
+      "title": "has completed the task ZZZXXXYYY",
+      "description": "",
+      "user": {
+        "id": "0cab5b1f-08fe-40f4-9396-51152e4f2386",
+        "avatar": "https://i.pravatar.cc/150?img=68",
+        "name": "Ramesh"
+      }
+    },
+    {
+      "id": "cb1cf795-673a-48b6-b9ab-fe9fba885f55",
+      "timestamp": "2024-01-09T13:00:00Z",
+      "title": "commented on your Post",
+      "description": "This looks nice!!. Just one last thing there are two missing entries from LasDena Data, add them too.",
+      "user": {
+        "id": "ba4f74a9-af93-4e6a-a998-7739c366f15a",
+        "avatar": "https://i.pravatar.cc/150?img=32",
+        "name": "Shweta"
+      }
+    },
+    {
+      "id": "1e791bc3-8452-4d0d-88bd-d34e3819ea82",
+      "timestamp": "2024-02-09T13:00:00Z",
+      "title": "added a file to Baknapa Folder",
+      "description": "Interim list of projects",
+      "user": {
+        "id": "cdbe0aed-6c29-4d76-a8f0-29df62636f7f",
+        "avatar": "https://i.pravatar.cc/150?img=7",
+        "name": "Jaggu"
+      }
+    }
   ]
 }
