@@ -75,7 +75,6 @@
         {
           "id": "cdbe0aed-6c29-4d76-a8f0-29df62636f7f",
           "avatar": "https://i.pravatar.cc/150?img=7",
-
           "name": "Jaggu"
         },
         {
@@ -114,7 +113,6 @@
         {
           "id": "cdbe0aed-6c29-4d76-a8f0-29df62636f7f",
           "avatar": "https://i.pravatar.cc/150?img=7",
-
           "name": "Jaggu"
         }
       ]
@@ -129,7 +127,6 @@
         {
           "id": "040d038f-d623-49ce-86f4-589b45d9ddb7",
           "avatar": "https://i.pravatar.cc/150?img=11",
-
           "name": "Tushar"
         },
         {
@@ -168,7 +165,6 @@
         {
           "id": "cdbe0aed-6c29-4d76-a8f0-29df62636f7f",
           "avatar": "https://i.pravatar.cc/150?img=7",
-
           "name": "Jaggu"
         }
       ]
@@ -183,7 +179,6 @@
         {
           "id": "cdbe0aed-6c29-4d76-a8f0-29df62636f7f",
           "avatar": "https://i.pravatar.cc/150?img=7",
-
           "name": "Jaggu"
         },
         {
@@ -203,7 +198,6 @@
         {
           "id": "040d038f-d623-49ce-86f4-589b45d9ddb7",
           "avatar": "https://i.pravatar.cc/150?img=11",
-
           "name": "Tushar"
         },
         {
@@ -233,7 +227,6 @@
       ]
     }
   ],
-
   "tasks": [
     {
       "id": "45f9fb7b-944c-47f6-bce5-b8a752bbb13e",
@@ -272,7 +265,6 @@
         {
           "id": "040d038f-d623-49ce-86f4-589b45d9ddb7",
           "avatar": "https://i.pravatar.cc/150?img=11",
-
           "name": "Tushar"
         },
         {
@@ -290,7 +282,6 @@
         {
           "id": "cdbe0aed-6c29-4d76-a8f0-29df62636f7f",
           "avatar": "https://i.pravatar.cc/150?img=7",
-
           "name": "Jaggu"
         },
         {
@@ -351,6 +342,48 @@
         "avatar": "https://i.pravatar.cc/150?img=7",
         "name": "Jaggu"
       }
+    }
+  ],
+  "users": [
+    {
+      "id": "ba4f74a9-af93-4e6a-a998-7739c366f15a",
+      "avatar": "https://i.pravatar.cc/150?img=32",
+      "name": "Shweta"
+    },
+    {
+      "id": "0cab5b1f-08fe-40f4-9396-51152e4f2386",
+      "avatar": "https://i.pravatar.cc/150?img=68",
+      "name": "Ramesh"
+    },
+    {
+      "id": "a9dba99d-e735-48d2-aad2-a81e6da8ec5a",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "name": "Raghu"
+    },
+    {
+      "id": "040d038f-d623-49ce-86f4-589b45d9ddb7",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "name": "Tushar"
+    },
+    {
+      "id": "a6657101-7388-44ca-88be-20eb2876c978",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "name": "Jitendra"
+    },
+    {
+      "id": "0b1b6757-d40a-40f4-8bcb-9806378779c5",
+      "avatar": "https://i.pravatar.cc/150?img=57",
+      "name": "Nitin"
+    },
+    {
+      "id": "cdbe0aed-6c29-4d76-a8f0-29df62636f7f",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "name": "Jaggu"
+    },
+    {
+      "id": "055be246-cae1-4c65-ba07-1dfa5ee31e81",
+      "avatar": "https://i.pravatar.cc/150?img=52",
+      "name": "Kamlesh"
     }
   ]
 }
